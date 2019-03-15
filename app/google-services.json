@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "20289519418",
+    "firebase_url": "https://androidbaas-aa3d9.firebaseio.com",
+    "project_id": "androidbaas-aa3d9",
+    "storage_bucket": "androidbaas-aa3d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20289519418:android:f57c7b6be84b2a6d",
+        "android_client_info": {
+          "package_name": "br.com.takahashi.leandro.androidbaas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20289519418-p1e4j4a8ie9iplqt5j06j878ag0gpakk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.takahashi.leandro.androidbaas",
+            "certificate_hash": "beb224284730e1ec2ea6857c4e52af0c0438cd6c"
+          }
+        },
+        {
+          "client_id": "20289519418-gis2sgg55dduj23p3722kl61kl4r3134.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2vrvH5hJvgremdU8tc9dB5i9_1PP-gA8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20289519418-gis2sgg55dduj23p3722kl61kl4r3134.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
